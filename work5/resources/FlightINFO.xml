@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FlightList>
+
+    <FlightInfo>
+        <flightcode>CA984</flightcode>
+        <company>air china</company>
+        <leaveairport>北京首都机场</leaveairport>
+         <arriveairport>上海虹桥机场</arriveairport>
+        <leavetime>07:20</leavetime>
+        <arrivetime>09:30</arrivetime>
+        <mode>738</mode>
+    </FlightInfo>
+
+    <FlightInfo>
+        <flightcode>MU5130</flightcode>
+        <company>china eastern</company>
+        <leaveairport>北京首都机场</leaveairport>
+        <arriveairport>上海虹桥机场</arriveairport>
+        <leavetime>07:30</leavetime>
+        <arrivetime>09:30</arrivetime>
+        <mode>330</mode>
+    </FlightInfo>
+
+    <FlightInfo>
+        <flightcode>CA1858</flightcode>
+        <company>air china</company>
+        <leaveairport>上海虹桥机场</leaveairport>
+        <arriveairport>北京首都机场</arriveairport>
+        <leavetime>07:55</leavetime>
+        <arrivetie>10:15</arrivetie>
+        <mode>777</mode>
+    </FlightInfo>
+
+    <FlightInfo>
+        <flightcode>FA9101</flightcode>
+        <company>shanghai airlines</company>
+        <leaveairport>上海虹桥机场</leaveairport>
+        <arriveairport>北京首都机场</arriveairport>
+        <leavetime>08:15</leavetime>
+        <arrivetime>10:35</arrivetime>
+        <mode>767</mode>
+    </FlightInfo>
+</FlightList>
+
+
